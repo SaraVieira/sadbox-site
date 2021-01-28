@@ -29,6 +29,7 @@ button {
   padding: 8px 20px;
   border: none;
   text-transform: capitalize;
+  cursor: pointer;
 }
 
 button.active {
