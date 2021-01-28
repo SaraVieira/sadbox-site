@@ -6,7 +6,7 @@ import Angry from "./Angry";
 
 import "./styles.css";
 
-const MOODS = ["SAD", "GLAD", "ANGRY"];
+const MOODS = ["SAD", "HAPPY", "ANGWY"];
 
 const capitalizeFLetter = (word) => {
   return word[0] + word.slice(1).toLocaleLowerCase();
